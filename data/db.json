@@ -4,7 +4,7 @@
       "id": 1,
       "title": "Nike Zoom KD 12",
       "price": 47.7,
-      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis1.jpg",
+      "image": "https://res.cloudinary.com/amradham/image/upload/v1658304622/ecommerce/nike_mbrujv.png",
       "description": "The Nike superRep Go combines comfortable foam cushioning, flexibility and support to get you moving in circuit-based fitness classes or while streaming workouts at home."
     }
   ],
