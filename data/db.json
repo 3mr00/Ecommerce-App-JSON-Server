@@ -24,14 +24,14 @@
       "id": 1,
       "title": "Nike Air Jordan",
       "price": 199.9,
-      "image": "https://res.cloudinary.com/amradham/image/upload/v1658602049/ecommerce/n_yssGd6gDjcEOq1thbJn-transformed_amjwxl.png",
+      "image": "",
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's."
     },
     {
       "id": 2,
       "title": "Nike Air Max Lw",
       "price": 139.9,
-      "image": "https://res.cloudinary.com/amradham/image/upload/v1658595589/ecommerce/56vqG3-NArqY8pmz98ZY5-transformed_p0ilim.png",
+      "image": "https://res.cloudinary.com/amradham/image/upload/v1658602026/ecommerce/Gge5YgkS4QsmmW75XNF6f-transformed_vv4842.png",
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's."
     },
     {
@@ -101,7 +101,7 @@
       "id": 12,
       "title": "Nike Supercr7",
       "price": 139.9,
-      "image": "https://res.cloudinary.com/amradham/image/upload/v1658602020/ecommerce/ag3ebwN7ydEi9MTA__LNQ-transformed_cbhstm.png",
+      "image": "https://res.cloudinary.com/amradham/image/upload/v1658602049/ecommerce/n_yssGd6gDjcEOq1thbJn-transformed_amjwxl.png",
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's."
     }
   ]
