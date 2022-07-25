@@ -13,7 +13,7 @@
     {
       "id": 1,
       "title": "Nike MAG PRO",
-      "price": 79.9,
+      "price": 79.99,
       "image": "https://res.cloudinary.com/amradham/image/upload/v1658303497/ecommerce/orange_arqgbz.png",
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's."
     }
@@ -24,7 +24,7 @@
       "id": 1,
       "title": "Nike Air Jordan",
       "category": "Men",
-      "price": 199.9,
+      "price": 199.99,
       "image": "https://res.cloudinary.com/amradham/image/upload/v1658602026/ecommerce/Gge5YgkS4QsmmW75XNF6f-transformed_vv4842.png",
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's."
     },
@@ -32,7 +32,7 @@
       "id": 2,
       "title": "Nike Air Max Lw",
       "category": "Women", 
-      "price": 139.9,
+      "price": 139.99,
       "image": "https://res.cloudinary.com/amradham/image/upload/v1658595589/ecommerce/56vqG3-NArqY8pmz98ZY5-transformed_p0ilim.png",
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's."
     },
@@ -40,7 +40,7 @@
       "id": 3,
       "title": "Nike MAG PRO",
       "category": "Men",
-      "price": 219.9,
+      "price": 219.99,
       "image": "https://res.cloudinary.com/amradham/image/upload/v1658303497/ecommerce/orange_arqgbz.png",
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's."
     },
@@ -48,7 +48,7 @@
       "id": 4,
       "title": "Nike Zoom Hc",
       "category": "Men",
-      "price": 209.9,
+      "price": 209.99,
       "image": "https://res.cloudinary.com/amradham/image/upload/v1658595592/ecommerce/GqJMobcYFfmkAAGxJtI6s-transformed_wma0yi.png",
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's."
     },
@@ -56,7 +56,7 @@
       "id": 5,
       "title": "Nike Flyknit",
       "category": "Women", 
-      "price": 115.9,
+      "price": 115.99,
       "image": "https://res.cloudinary.com/amradham/image/upload/v1658303494/ecommerce/nike2_xyfxcj.png",
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's."
     },
@@ -64,7 +64,7 @@
       "id": 6,
       "title": "Nike Dunk Low",
       "category": "Men",
-      "price": 134.9,
+      "price": 134.99,
       "image": "https://res.cloudinary.com/amradham/image/upload/v1658595591/ecommerce/EmDk7-TIcxNa74b0tGaZq-transformed_qiz1d1.png",
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's."
     },
@@ -72,7 +72,7 @@
       "id": 7,
       "title": "Nike Lunar Boa",
       "category": "Women", 
-      "price": 139.9,
+      "price": 139.99,
       "image": "https://res.cloudinary.com/amradham/image/upload/v1658593773/ecommerce/sG1nBN15hWKY_6qXYb_F6-transformed_tnsr6n.png",
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's."
     },
@@ -80,7 +80,7 @@
       "id": 8,
       "title": "Nike Sb Blazer",
       "category": "Men",
-      "price": 219.9,
+      "price": 219.99,
       "image": "https://res.cloudinary.com/amradham/image/upload/v1658602033/ecommerce/ce7fivB0hCXiA4e5HAXSy-transformed_a3mvu7.png",
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's."
     },
@@ -88,7 +88,7 @@
       "id": 9,
       "title": "Nike Free Rn",
       "category": "Women", 
-      "price": 179.9,
+      "price": 179.99,
       "image": "https://res.cloudinary.com/amradham/image/upload/v1658596500/ecommerce/uFAFq98ilPQ0Ps2bE7A59-transformed_k3bxdy.png",
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's."
     },
@@ -96,7 +96,7 @@
       "id": 10,
       "title": "Nike Zoom Kd 9",
       "category": "Women", 
-      "price": 210.9,
+      "price": 210.99,
       "image": "https://res.cloudinary.com/amradham/image/upload/v1658596494/ecommerce/2bwEpwzQiNyxID6vpZiIb-transformed_sx76oq.png",
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's."
     },
@@ -104,7 +104,7 @@
       "id": 11,
       "title": "Nike Kd Trey 5",
       "category": "Men",
-      "price": 47.9,
+      "price": 47.99,
       "image": "https://res.cloudinary.com/amradham/image/upload/v1658637011/ecommerce/bb-transformed_x5ut8e.png",
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's."
     },
@@ -112,7 +112,7 @@
       "id": 12,
       "title": "Nike Supercr7",
       "category": "Women", 
-      "price": 139.9,
+      "price": 139.99,
       "image": "https://res.cloudinary.com/amradham/image/upload/v1658602049/ecommerce/n_yssGd6gDjcEOq1thbJn-transformed_amjwxl.png",
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's."
     }
